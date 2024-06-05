@@ -94,7 +94,7 @@ section {
 }
 
 .company, .school-name{
-    color: #71c9ce;
+    color: #8B1B65;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
@@ -103,7 +103,7 @@ section {
 .time {
     font-size: 15px;
     font-weight: 500;
-    color: #71c9ce;
+    color: 8B1B65;
 }
 
 .job-title, .school-title {
@@ -117,7 +117,7 @@ section {
 }
 
 .honors h3{
-    color: #71c9ce;
+    color: #8B1B65;
     font-size: 15px;
     font-weight: 500;
     margin-bottom: 0px;
